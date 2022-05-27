@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4b2537ac-7869-4baf-8433-b99e2f20d766" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React04.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/React05.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react01.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react02.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/react03.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KhoaHoc/Element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KhoaHoc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KhoaHoc/index1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../KhoaHoc/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestDate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../react-basic-hoi-dan-it" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testjava/Mot.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="29h1cTVVn0Alx4FztzCOer9B8kI" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.React05.html">
+    <configuration name="React05.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/01/React05.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="react01.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/01/react01.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="react02.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/01/react02.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="react03.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63343/01/react03.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.React05.html" />
+        <item itemvalue="JavaScript Debug.react03.html" />
+        <item itemvalue="JavaScript Debug.react01.html" />
+        <item itemvalue="JavaScript Debug.react02.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4b2537ac-7869-4baf-8433-b99e2f20d766" name="Changes" comment="" />
+      <created>1653550584113</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1653550584113</updated>
+      <workItem from="1653550585297" duration="1706000" />
+      <workItem from="1653552378433" duration="6897000" />
+      <workItem from="1653576804988" duration="702000" />
+      <workItem from="1653579778792" duration="2989000" />
+      <workItem from="1653616826678" duration="608000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
