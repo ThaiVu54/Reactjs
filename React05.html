@@ -6,21 +6,57 @@
   <script crossorigin src="https://unpkg.com/react@17.0.0/umd/react.production.min.js"></script>
   <script crossorigin src="https://unpkg.com/react-dom@17.0.0/umd/react-dom.production.min.js"></script>
   <script src="https://unpkg.com/babel-standalone@6/babel.min.js"></script>
+    <style>
+        .click-btn {
+            background: none;
+            border-radius: 5px;
+            padding: 3px 5px 3px 5px;
+            border: 1px solid blue;
+            color: blue;
+            font-weight: 600;
+            transition: 0.3s ease;
+            text-decoration: none;
+        }
+        .click-btn:hover {
+            background: blue;
+            color: white;
+        }
+    </style>
 </head>
 <body>
-<script type = text/babel>
-    function Button ({title, href, onClick}){
-        if (href){
-            Component = 'a';
-            props.href = href
+<div id="app"></div>
+<div id="root"></div>
+<script type="text/babel">
+    //
+    function Button({ title, href, onClick }) {
+        let Component = "button";
+        let props = {};
+
+        if (href) {
+            Component = "a";
+            props.href = href;
+            props.className = "click-btn";
         }
-        if (onClick){
-            props.onClick = onClick
+        if (onClick) {
+            props.onClick = onClick;
         }
-        return (
-            <Componet {...this.props}>title</Componet>
-        )
+        return <Component {...props}>{title}</Component>;
     }
+
+    function App() {
+        return (
+            <div className="wrapper">
+                <Button
+                    title="Click me!"
+                    href="https://fullstack.edu.vn"
+                    onClick={() => alert("Các bạn sẽ chuyển tiếp đến trang F8")}
+                />
+            </div>
+        );
+    }
+
+    // render UI
+    ReactDOM.render(<App />, document.getElementById("app"));
 </script>
 </body>
-</html>
+</html> 
